@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+<phylomon>
+<Name>humpback whale</Name>
+<HP>120</HP>
+<attackName>watergun</attackName>
+<attackDamage>30</attackDamage>
+<picLocatie>phylomon-pics/humpback whale.jpg</picLocatie>
+</phylomon>
+<phylomon>
+<Name>stijn</Name>
+<HP>5</HP>
+<attackName>zaf</attackName>
+<attackDamage>5</attackDamage>
+<picLocatie>no pic locatie</picLocatie>
+</phylomon>
+</resources>
